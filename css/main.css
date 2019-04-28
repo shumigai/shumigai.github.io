@@ -1,0 +1,11 @@
+.carousel-control-next-icon, .carousel-control-prev-icon{
+	width: 120px;
+	height: 120px;
+}
+#one {
+    text-align: center;
+    background-color: aqua;
+}
+#two{
+    text-align: center;
+}
